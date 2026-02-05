@@ -1,0 +1,97 @@
+{{ define "main" }}
+
+{{/* Hero section */}}
+<section class="hero">
+  <div class="container">
+    <h1>
+      {{ if eq .Language.Lang "ko" }}
+        IEEE Korea Council<br>지능형교통시스템 학회 챕터
+      {{ else }}
+        IEEE Korea Council<br>ITS Society Chapter
+      {{ end }}
+    </h1>
+    <p class="hero-description">{{ .Description }}</p>
+  </div>
+</section>
+
+{{/* Main content from _index.md */}}
+<section class="section">
+  <div class="container">
+    {{ .Content }}
+  </div>
+</section>
+
+{{/* Upcoming Events */}}
+<section class="section section--alt">
+  <div class="container">
+    <h2>{{ i18n "upcoming_events" }}</h2>
+    {{ $events := where (where .Site.RegularPages "Section" "events") ".Date" "ge" now }}
+    {{ if $events }}
+      <div class="card-grid">
+        {{ range first 3 $events }}
+        <article class="card">
+          <div class="card-body">
+            <time class="card-date">{{ .Date.Format "2006-01-02" }}</time>
+            <h3 class="card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+            <p>{{ .Summary }}</p>
+          </div>
+        </article>
+        {{ end }}
+      </div>
+    {{ else }}
+      <p class="empty-message">{{ i18n "no_upcoming_events" }}</p>
+    {{ end }}
+  </div>
+</section>
+
+{{/* Recent News */}}
+<section class="section">
+  <div class="container">
+    <h2>{{ i18n "recent_news" }}</h2>
+    {{ $news := where .Site.RegularPages "Section" "news" }}
+    {{ if $news }}
+      <div class="card-grid">
+        {{ range first 3 $news }}
+        <article class="card">
+          <div class="card-body">
+            <time class="card-date">{{ .Date.Format "2006-01-02" }}</time>
+            <h3 class="card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+            <p>{{ .Summary }}</p>
+          </div>
+        </article>
+        {{ end }}
+      </div>
+    {{ else }}
+      <p class="empty-message">{{ i18n "no_news" }}</p>
+    {{ end }}
+  </div>
+</section>
+
+{{/* Community Links */}}
+<section class="section section--alt">
+  <div class="container">
+    <h2>{{ i18n "community" }}</h2>
+    <div class="community-links">
+      {{ with .Site.Params.linkedinURL }}
+      <a href="{{ . }}" target="_blank" rel="noopener" class="community-card">
+        <strong>LinkedIn Group</strong>
+        <span>{{ if eq $.Language.Lang "ko" }}전문가 네트워킹{{ else }}Professional networking{{ end }}</span>
+      </a>
+      {{ end }}
+      {{ with .Site.Params.collabratecURL }}
+      <a href="{{ . }}" target="_blank" rel="noopener" class="community-card">
+        <strong>IEEE Collabratec</strong>
+        <span>{{ if eq $.Language.Lang "ko" }}IEEE 협업 플랫폼{{ else }}IEEE collaboration platform{{ end }}</span>
+      </a>
+      {{ end }}
+      {{ with .Site.Params.kakaoOpenChatURL }}
+      <a href="{{ . }}" target="_blank" rel="noopener" class="community-card">
+        <strong>KakaoTalk</strong>
+        <span>{{ if eq $.Language.Lang "ko" }}오픈채팅방{{ else }}Open Chat Room{{ end }}</span>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{ end }}

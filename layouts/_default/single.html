@@ -1,0 +1,54 @@
+{{ define "main" }}
+<article class="section">
+  <div class="container content-single">
+
+    <header class="content-header">
+      {{ if .Date }}
+      <time class="content-date">{{ i18n "posted_on" }}: {{ .Date.Format "2006-01-02" }}</time>
+      {{ end }}
+      <h1>{{ .Title }}</h1>
+      {{ with .Params.subtitle }}<p class="content-subtitle">{{ . }}</p>{{ end }}
+    </header>
+
+    {{/* Event-specific metadata */}}
+    {{ if eq .Section "events" }}
+    <div class="event-meta">
+      {{ with .Params.event_date }}
+      <div class="meta-item">
+        <strong>{{ i18n "event_date" }}:</strong> {{ . }}
+      </div>
+      {{ end }}
+      {{ with .Params.location }}
+      <div class="meta-item">
+        <strong>{{ i18n "event_location" }}:</strong> {{ . }}
+      </div>
+      {{ end }}
+      {{ with .Params.speaker }}
+      <div class="meta-item">
+        <strong>{{ i18n "event_speaker" }}:</strong> {{ . }}
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    <div class="content-body">
+      {{ .Content }}
+    </div>
+
+    {{/* Translation link */}}
+    {{ if .IsTranslated }}
+    <div class="content-translations">
+      {{ range .Translations }}
+      <a href="{{ .RelPermalink }}" class="btn btn--outline">
+        {{ .Language.LanguageName }} version
+      </a>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    <div class="content-nav">
+      <a href="{{ .Section | relURL }}/" class="btn btn--outline">&larr; {{ i18n "back_to_list" }}</a>
+    </div>
+  </div>
+</article>
+{{ end }}

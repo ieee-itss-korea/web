@@ -1,0 +1,132 @@
+# =============================================================================
+# IEEE Korea Council ITS Society Chapter Website
+# Hugo Configuration
+# =============================================================================
+
+baseURL = "https://ieee-itss-korea.github.io/web/"
+title = "IEEE Korea Council ITS Society Chapter"
+
+enableRobotsTXT = true
+paginate = 10
+summaryLength = 120
+
+# Korean at root /, English at /en/
+defaultContentLanguage = "ko"
+defaultContentLanguageInSubdir = false
+
+# =============================================================================
+# Languages
+# =============================================================================
+[languages]
+
+  [languages.ko]
+    title = "IEEE Korea Council ITS Society Chapter"
+    languageName = "한국어"
+    languageCode = "ko"
+    weight = 1
+    [languages.ko.params]
+      description = "IEEE Korea Council 지능형교통시스템 학회 챕터 공식 웹사이트"
+
+    [[languages.ko.menus.main]]
+      name = "홈"
+      url = "/"
+      weight = 1
+    [[languages.ko.menus.main]]
+      name = "소개"
+      url = "/about/"
+      weight = 2
+    [[languages.ko.menus.main]]
+      name = "임원진"
+      url = "/leadership/"
+      weight = 3
+    [[languages.ko.menus.main]]
+      name = "행사"
+      url = "/events/"
+      weight = 4
+    [[languages.ko.menus.main]]
+      name = "소식"
+      url = "/news/"
+      weight = 5
+    [[languages.ko.menus.main]]
+      name = "회원"
+      url = "/membership/"
+      weight = 6
+    [[languages.ko.menus.main]]
+      name = "자료"
+      url = "/resources/"
+      weight = 7
+    [[languages.ko.menus.main]]
+      name = "연락처"
+      url = "/contact/"
+      weight = 8
+
+  [languages.en]
+    title = "IEEE Korea Council ITS Society Chapter"
+    languageName = "English"
+    languageCode = "en"
+    weight = 2
+    [languages.en.params]
+      description = "Official website of the IEEE Korea Council Intelligent Transportation Systems Society Chapter"
+
+    [[languages.en.menus.main]]
+      name = "Home"
+      url = "/en/"
+      weight = 1
+    [[languages.en.menus.main]]
+      name = "About"
+      url = "/en/about/"
+      weight = 2
+    [[languages.en.menus.main]]
+      name = "Leadership"
+      url = "/en/leadership/"
+      weight = 3
+    [[languages.en.menus.main]]
+      name = "Events"
+      url = "/en/events/"
+      weight = 4
+    [[languages.en.menus.main]]
+      name = "News"
+      url = "/en/news/"
+      weight = 5
+    [[languages.en.menus.main]]
+      name = "Membership"
+      url = "/en/membership/"
+      weight = 6
+    [[languages.en.menus.main]]
+      name = "Resources"
+      url = "/en/resources/"
+      weight = 7
+    [[languages.en.menus.main]]
+      name = "Contact"
+      url = "/en/contact/"
+      weight = 8
+
+# =============================================================================
+# Site Parameters
+# =============================================================================
+[params]
+  chapterName = "IEEE Korea Council ITS Society Chapter"
+  chapterNameKo = "IEEE Korea Council 지능형교통시스템 학회 챕터"
+  foundedDate = "2025-12-02"
+
+  # Community links — fill these in
+  linkedinURL = ""
+  collabratecURL = ""
+  kakaoOpenChatURL = ""
+
+  # Parent organizations
+  ieeeURL = "https://www.ieee.org"
+  itssURL = "https://ieee-itss.org"
+  koreaCouncilURL = "https://ieeekorea.org"
+
+# =============================================================================
+# Markup & Outputs
+# =============================================================================
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = false
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]

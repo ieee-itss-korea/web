@@ -1,0 +1,82 @@
+# Korean UI strings
+
+[nav_home]
+other = "홈"
+
+[nav_about]
+other = "소개"
+
+[nav_leadership]
+other = "임원진"
+
+[nav_events]
+other = "행사"
+
+[nav_news]
+other = "소식"
+
+[nav_membership]
+other = "회원"
+
+[nav_resources]
+other = "자료"
+
+[nav_contact]
+other = "연락처"
+
+[read_more]
+other = "더 읽기"
+
+[posted_on]
+other = "게시일"
+
+[upcoming_events]
+other = "예정된 행사"
+
+[recent_news]
+other = "최근 소식"
+
+[community]
+other = "커뮤니티"
+
+[join_us]
+other = "가입 안내"
+
+[quick_links]
+other = "바로가기"
+
+[founded]
+other = "설립일"
+
+[no_upcoming_events]
+other = "예정된 행사가 없습니다."
+
+[no_news]
+other = "등록된 소식이 없습니다."
+
+[lang_switch]
+other = "English"
+
+[footer_copyright]
+other = "© IEEE — All rights reserved."
+
+[footer_privacy]
+other = "IEEE 개인정보처리방침"
+
+[footer_nondiscrimination]
+other = "IEEE 비차별 정책"
+
+[footer_accessibility]
+other = "접근성"
+
+[back_to_list]
+other = "목록으로"
+
+[event_date]
+other = "일시"
+
+[event_location]
+other = "장소"
+
+[event_speaker]
+other = "연사"

@@ -1,0 +1,82 @@
+# English UI strings
+
+[nav_home]
+other = "Home"
+
+[nav_about]
+other = "About"
+
+[nav_leadership]
+other = "Leadership"
+
+[nav_events]
+other = "Events"
+
+[nav_news]
+other = "News"
+
+[nav_membership]
+other = "Membership"
+
+[nav_resources]
+other = "Resources"
+
+[nav_contact]
+other = "Contact"
+
+[read_more]
+other = "Read more"
+
+[posted_on]
+other = "Posted on"
+
+[upcoming_events]
+other = "Upcoming Events"
+
+[recent_news]
+other = "Recent News"
+
+[community]
+other = "Community"
+
+[join_us]
+other = "Join Us"
+
+[quick_links]
+other = "Quick Links"
+
+[founded]
+other = "Founded"
+
+[no_upcoming_events]
+other = "No upcoming events."
+
+[no_news]
+other = "No news posted yet."
+
+[lang_switch]
+other = "한국어"
+
+[footer_copyright]
+other = "© IEEE — All rights reserved."
+
+[footer_privacy]
+other = "IEEE Privacy Policy"
+
+[footer_nondiscrimination]
+other = "IEEE Nondiscrimination Policy"
+
+[footer_accessibility]
+other = "Accessibility"
+
+[back_to_list]
+other = "Back to list"
+
+[event_date]
+other = "Date"
+
+[event_location]
+other = "Location"
+
+[event_speaker]
+other = "Speaker"

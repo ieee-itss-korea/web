@@ -1,0 +1,67 @@
+<footer class="site-footer">
+  <div class="container footer-inner">
+
+    {{/* Footer columns */}}
+    <div class="footer-grid">
+
+      {{/* Column 1: Chapter info */}}
+      <div class="footer-col">
+        <h3>{{ .Site.Params.chapterName }}</h3>
+        <p>{{ i18n "founded" }}: 2025-12-02</p>
+      </div>
+
+      {{/* Column 2: Community links */}}
+      <div class="footer-col">
+        <h3>{{ i18n "community" }}</h3>
+        <ul>
+          {{ with .Site.Params.linkedinURL }}
+          <li><a href="{{ . }}" target="_blank" rel="noopener">LinkedIn Group</a></li>
+          {{ end }}
+          {{ with .Site.Params.collabratecURL }}
+          <li><a href="{{ . }}" target="_blank" rel="noopener">IEEE Collabratec</a></li>
+          {{ end }}
+          {{ with .Site.Params.kakaoOpenChatURL }}
+          <li><a href="{{ . }}" target="_blank" rel="noopener">KakaoTalk Open Chat</a></li>
+          {{ end }}
+        </ul>
+      </div>
+
+      {{/* Column 3: Quick links */}}
+      <div class="footer-col">
+        <h3>{{ i18n "quick_links" }}</h3>
+        <ul>
+          <li><a href="{{ .Site.Params.itssURL }}" target="_blank" rel="noopener">IEEE ITS Society</a></li>
+          <li><a href="{{ .Site.Params.koreaCouncilURL }}" target="_blank" rel="noopener">IEEE Korea Council</a></li>
+          <li><a href="{{ .Site.Params.ieeeURL }}" target="_blank" rel="noopener">IEEE</a></li>
+        </ul>
+      </div>
+    </div>
+
+    {{/* IEEE-required footer links */}}
+    <div class="footer-ieee">
+      <div class="footer-ieee-links">
+        <a href="https://www.ieee.org/security-privacy.html" target="_blank" rel="noopener">{{ i18n "footer_privacy" }}</a>
+        <a href="https://www.ieee.org/about/corporate/governance/p9-26.html" target="_blank" rel="noopener">{{ i18n "footer_nondiscrimination" }}</a>
+        <a href="https://www.ieee.org/accessibility-statement.html" target="_blank" rel="noopener">{{ i18n "footer_accessibility" }}</a>
+        <a href="https://www.ieee.org/about/compliance/ethics/reporting.html" target="_blank" rel="noopener">IEEE Ethics Reporting</a>
+      </div>
+      <p class="footer-copyright">{{ i18n "footer_copyright" }}</p>
+    </div>
+
+  </div>
+</footer>
+
+{{/* Mobile nav toggle script */}}
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var toggle = document.querySelector('.nav-toggle');
+    var menu = document.querySelector('.nav-menu');
+    if (toggle && menu) {
+      toggle.addEventListener('click', function() {
+        var expanded = this.getAttribute('aria-expanded') === 'true';
+        this.setAttribute('aria-expanded', !expanded);
+        menu.classList.toggle('nav-menu--open');
+      });
+    }
+  });
+</script>

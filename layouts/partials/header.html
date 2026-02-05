@@ -1,0 +1,79 @@
+{{/* IEEE meta-navigation bar */}}
+<nav class="ieee-topbar" aria-label="IEEE Global Navigation">
+  <div class="container ieee-topbar-inner">
+    <div class="ieee-topbar-links">
+      <a href="https://www.ieee.org" target="_blank" rel="noopener">IEEE.org</a>
+      <a href="https://ieeexplore.ieee.org" target="_blank" rel="noopener">IEEE Xplore</a>
+      <a href="https://standards.ieee.org" target="_blank" rel="noopener">IEEE Standards</a>
+      <a href="https://spectrum.ieee.org" target="_blank" rel="noopener">IEEE Spectrum</a>
+      <a href="https://ieee-itss.org" target="_blank" rel="noopener">IEEE ITSS</a>
+    </div>
+    <div class="ieee-topbar-actions">
+      <a href="https://www.ieee.org/membership/join/index.html" target="_blank" rel="noopener">Join IEEE</a>
+    </div>
+  </div>
+</nav>
+
+{{/* Main site header */}}
+<header class="site-header">
+  <div class="container header-inner">
+    {{/* Chapter identifier (left) */}}
+    <div class="site-brand">
+      <a href="{{ .Site.Home.RelPermalink }}" class="site-logo-link">
+        <img src="{{ "images/ieee-itss-logo.png" | relURL }}" alt="IEEE ITSS Logo" class="site-logo">
+      </a>
+      <div class="site-title-block">
+        <a href="{{ .Site.Home.RelPermalink }}" class="site-title-link">
+          {{ if eq .Language.Lang "ko" }}
+            <span class="site-title">IEEE Korea Council</span>
+            <span class="site-subtitle">지능형교통시스템 학회 챕터</span>
+          {{ else }}
+            <span class="site-title">IEEE Korea Council</span>
+            <span class="site-subtitle">ITS Society Chapter</span>
+          {{ end }}
+        </a>
+      </div>
+    </div>
+
+    {{/* IEEE Master Brand (right) */}}
+    <div class="ieee-master-brand">
+      <a href="https://www.ieee.org" target="_blank" rel="noopener">
+        <img src="{{ "images/ieee-mb-white.png" | relURL }}" alt="IEEE" class="ieee-logo">
+      </a>
+    </div>
+  </div>
+</header>
+
+{{/* Navigation */}}
+<nav class="site-nav" aria-label="Main Navigation">
+  <div class="container nav-inner">
+    <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+      <span class="nav-toggle-icon"></span>
+    </button>
+    <ul class="nav-menu">
+      {{ range .Site.Menus.main }}
+      <li class="nav-item">
+        <a href="{{ .URL | relURL }}" class="nav-link">{{ .Name }}</a>
+      </li>
+      {{ end }}
+    </ul>
+
+    {{/* Language switcher */}}
+    <div class="lang-switch">
+      {{ if .IsTranslated }}
+        {{ range .Translations }}
+          <a href="{{ .RelPermalink }}" class="lang-link" title="{{ i18n "lang_switch" }}">
+            {{ .Language.LanguageName }}
+          </a>
+        {{ end }}
+      {{ else }}
+        {{/* Fallback: link to home of the other language */}}
+        {{ if eq $.Language.Lang "ko" }}
+          <a href="{{ "en/" | relURL }}" class="lang-link" title="English">English</a>
+        {{ else }}
+          <a href="{{ "/" | relURL }}" class="lang-link" title="한국어">한국어</a>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</nav>
