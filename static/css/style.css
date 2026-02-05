@@ -102,8 +102,11 @@ ul, ol { padding-left: 1.5em; }
   gap: 1rem;
 }
 .site-logo {
-  height: 48px;
+  height: 56px;
   width: auto;
+  border-radius: 50%;
+  background: #fff;
+  padding: 2px;
 }
 .site-title-link { color: #fff; }
 .site-title-link:hover { color: #fff; text-decoration: none; }
