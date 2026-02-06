@@ -45,6 +45,7 @@ jobs:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
           TZ: Asia/Seoul
+          DEPLOY_SHA: ${{ github.sha }}
         run: |
           hugo \
             --gc \

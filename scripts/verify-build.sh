@@ -104,6 +104,16 @@ verify_language_switcher() {
   check_file_contains  "en/index.html" '/ko/' "EN homepage links to /ko/"
 }
 
+verify_deploy_sha() {
+  echo "Deploy SHA"
+  if [ -n "${DEPLOY_SHA:-}" ]; then
+    local short_sha="${DEPLOY_SHA:0:7}"
+    check_file_contains "ko/index.html" "${short_sha}" "KO homepage contains deploy SHA (${short_sha})"
+  else
+    echo "  ⚠️  DEPLOY_SHA not set (local build?) — skipping"
+  fi
+}
+
 verify_static_assets() {
   echo "Static assets"
   check_file "css/style.css"                  "CSS stylesheet"
@@ -131,6 +141,8 @@ echo ""
 verify_english_pages
 echo ""
 verify_language_switcher
+echo ""
+verify_deploy_sha
 echo ""
 verify_static_assets
 
