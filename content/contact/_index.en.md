@@ -17,9 +17,9 @@ For inquiries about the chapter, please reach out through the channels below.
 
 | Channel | Purpose | Link |
 |---------|---------|------|
-| LinkedIn Group | Professional networking, news sharing | (add link) |
-| IEEE Collabratec | IEEE official collaboration platform | (add link) |
-| KakaoTalk Open Chat | Real-time communication, Q&A | (add link) |
+| LinkedIn Group | Professional networking, news sharing | [LinkedIn Group](https://www.linkedin.com/groups/17407009/) |
+| IEEE Collabratec | IEEE official collaboration platform | [IEEE Collabratec](https://ieee-collabratec.ieee.org/app/workspaces/9260/Korea-Chapter-ITS-Society/activities) |
+| KakaoTalk Open Chat | Real-time communication, Q&A | Contact us to join |
 
 ### Parent Organizations
 
