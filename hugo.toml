@@ -125,6 +125,16 @@ defaultContentLanguageInSubdir = true
   itssURL = "https://ieee-itss.org"
   koreaCouncilURL = "https://ieeekorea.org"
 
+  # Affiliated / partner organizations
+  # Add entries here as collaborations are established.
+  # Each entry has name, nameKo, url, and optional description/descriptionKo.
+  [[params.affiliates]]
+    name = "KASA"
+    nameKo = "KASA"
+    url = "https://kasa.kr"
+    description = ""
+    descriptionKo = ""
+
 # =============================================================================
 # Markup & Outputs
 # =============================================================================
