@@ -24,7 +24,7 @@
   --font-size-base: 16px;
   --line-height: 1.65;
 
-  --container-max: 1100px;
+  --container-max: 1280px;
   --spacing: 1.5rem;
   --radius: 6px;
   --shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
@@ -262,7 +262,7 @@ ul, ol { padding-left: 1.5em; }
    ============================================================================= */
 .card-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
   gap: 1.5rem;
 }
 .card {
