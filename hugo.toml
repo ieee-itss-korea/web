@@ -12,9 +12,10 @@ summaryLength = 120
 [pagination]
   pagerSize = 10
 
-# Korean at root /, English at /en/
+# Both languages in subdirectories: /ko/ and /en/
+# Root / serves a redirect to /ko/ via layouts/alias.html
 defaultContentLanguage = "ko"
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 
 # =============================================================================
 # Languages
@@ -31,35 +32,35 @@ defaultContentLanguageInSubdir = false
 
     [[languages.ko.menus.main]]
       name = "홈"
-      url = "/"
+      url = "/ko/"
       weight = 1
     [[languages.ko.menus.main]]
       name = "소개"
-      url = "/about/"
+      url = "/ko/about/"
       weight = 2
     [[languages.ko.menus.main]]
       name = "임원진"
-      url = "/leadership/"
+      url = "/ko/leadership/"
       weight = 3
     [[languages.ko.menus.main]]
       name = "행사"
-      url = "/events/"
+      url = "/ko/events/"
       weight = 4
     [[languages.ko.menus.main]]
       name = "소식"
-      url = "/news/"
+      url = "/ko/news/"
       weight = 5
     [[languages.ko.menus.main]]
       name = "회원"
-      url = "/membership/"
+      url = "/ko/membership/"
       weight = 6
     [[languages.ko.menus.main]]
       name = "자료"
-      url = "/resources/"
+      url = "/ko/resources/"
       weight = 7
     [[languages.ko.menus.main]]
       name = "연락처"
-      url = "/contact/"
+      url = "/ko/contact/"
       weight = 8
 
   [languages.en]
