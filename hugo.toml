@@ -8,6 +8,7 @@ title = "IEEE Korea Council ITS Society Chapter"
 
 enableRobotsTXT = true
 enableGitInfo = true
+buildFuture = true
 summaryLength = 120
 
 [pagination]
