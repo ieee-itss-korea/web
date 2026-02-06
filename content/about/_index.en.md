@@ -13,9 +13,15 @@ The IEEE ITSS Korea Chapter is a technical chapter under the IEEE ITS Society, s
 - **Council:** IEEE Korea Council
 - **Parent Society:** [IEEE Intelligent Transportation Systems Society (ITSS)](https://ieee-itss.org)
 
-### Mission
+### Objectives
 
-Our chapter is dedicated to:
+1. Promote ITS research, education, and development in Korea
+2. Connect the Korean ITS community with the global IEEE ITSS network
+3. Support standardization and policy innovation in intelligent transportation
+4. Foster collaboration among academia, industry, and government
+5. Promote Korean ITS excellence internationally
+
+### Activities
 
 1. Sharing the latest research trends and fostering academic exchange in ITS
 2. Hosting Distinguished Lecturer talks and seminars

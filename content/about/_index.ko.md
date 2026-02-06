@@ -13,9 +13,15 @@ IEEE ITSS Korea Chapter는 대한민국의 지능형교통시스템(ITS) 분야 
 - **소속:** IEEE Korea Council
 - **상위 학회:** [IEEE Intelligent Transportation Systems Society (ITSS)](https://ieee-itss.org)
 
-### 목적
+### 목표
 
-본 챕터는 다음과 같은 목적을 가지고 활동합니다:
+1. 한국 내 ITS 연구, 교육, 개발 촉진
+2. 한국 ITS 커뮤니티와 글로벌 IEEE ITSS 네트워크 연결
+3. 지능형 교통 분야 표준화 및 정책 혁신 지원
+4. 산학연관 협력 촉진
+5. 한국 ITS 우수성을 국제적으로 홍보
+
+### 주요 활동
 
 1. ITS 분야의 최신 연구 동향 공유 및 학술 교류
 2. Distinguished Lecturer 초청 강연 및 세미나 개최
