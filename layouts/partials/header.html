@@ -64,7 +64,7 @@
          Our post-build script mirrors English pages into /en/. */}}
     <div class="lang-switch">
       {{ if eq .Language.Lang "ko" }}
-        <a href="{{ .RelPermalink | replaceRE `/ko/` `/en/` 1 }}" class="lang-link" title="English">English</a>
+        <a href="{{ replace .RelPermalink "/ko/" "/en/" }}" class="lang-link" title="English">English</a>
       {{ else }}
         {{ $path := .RelPermalink }}
         {{ $base := site.Home.RelPermalink }}
