@@ -46,6 +46,9 @@
         <a href="https://www.ieee.org/about/compliance/ethics/reporting.html" target="_blank" rel="noopener">IEEE Ethics Reporting</a>
       </div>
       <p class="footer-copyright">{{ i18n "footer_copyright" }}</p>
+      {{ with .Site.Home.GitInfo }}
+      <p class="footer-build">{{ .AbbreviatedHash }} &middot; {{ .AuthorDate.Format "2006-01-02" }}</p>
+      {{ end }}
     </div>
 
   </div>

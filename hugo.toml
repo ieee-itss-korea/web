@@ -7,6 +7,7 @@ baseURL = "https://ieee-itss-korea.github.io/web/"
 title = "IEEE Korea Council ITS Society Chapter"
 
 enableRobotsTXT = true
+enableGitInfo = true
 summaryLength = 120
 
 [pagination]
