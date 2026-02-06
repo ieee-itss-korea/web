@@ -51,6 +51,23 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
 
+      - name: Force root redirect to Korean
+        run: |
+          cat > ./public/index.html << 'REDIRECT'
+          <!DOCTYPE html>
+          <html>
+          <head>
+            <meta charset="utf-8">
+            <meta http-equiv="refresh" content="0; url=./ko/">
+            <link rel="canonical" href="./ko/">
+            <title>IEEE Korea Council ITS Society Chapter</title>
+          </head>
+          <body>
+            <p>Redirecting to <a href="./ko/">한국어 페이지</a>...</p>
+          </body>
+          </html>
+          REDIRECT
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
