@@ -12,10 +12,10 @@ description: "IEEE ITSS Korea Chapter 임원 소개"
 
 | 직위 | 이름 | 소속 |
 |------|------|------|
-| Chapter Chair | (이름) | (소속) |
-| Vice Chair | (이름) | (소속) |
-| Secretary | (이름) | (소속) |
-| Treasurer | (이름) | (소속) |
+| Chapter Chair | 이강원 | 한국공학대학교 |
+| Vice Chair | 강연식 | 국민대학교 |
+| Secretary | 금동석 | 카이스트 |
+| Treasurer | 임헌국 | 호서대학교 |
 
 <!--
   선택사항: 사진이 포함된 카드 레이아웃을 사용하려면

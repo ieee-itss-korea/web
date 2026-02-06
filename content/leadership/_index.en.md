@@ -12,7 +12,7 @@ description: "Officers of the IEEE ITSS Korea Chapter"
 
 | Position | Name | Affiliation |
 |----------|------|-------------|
-| Chapter Chair | (Name) | (Affiliation) |
-| Vice Chair | (Name) | (Affiliation) |
-| Secretary | (Name) | (Affiliation) |
-| Treasurer | (Name) | (Affiliation) |
+| Chapter Chair | Kangwon Lee | TU Korea |
+| Vice Chair | Yeonsik Kang | Kookmin University |
+| Secretary | Dongsuk Kum | KAIST |
+| Treasurer | Huhnkuk Lim | Hoseo University |
