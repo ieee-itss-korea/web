@@ -115,6 +115,9 @@ defaultContentLanguageInSubdir = true
   chapterNameKo = "IEEE ITSS Korea Chapter"
   foundedDate = "2025-12-02"
 
+  # Contact form (Google Forms — replace URL after creating form)
+  contactFormURL = ""
+
   # Community links
   linkedinURL = "https://www.linkedin.com/groups/17407009/"
   collabratecURL = "https://ieee-collabratec.ieee.org/app/workspaces/9260/Korea-Chapter-ITS-Society/activities"

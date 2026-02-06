@@ -7,11 +7,13 @@ description: "IEEE ITSS Korea Chapter 연락처"
 
 챕터에 대한 문의사항이 있으시면 아래 채널을 통해 연락해 주세요.
 
-### 이메일
+### 문의하기
 
-<!-- 실제 이메일 주소로 교체해 주세요 -->
-- **Chapter Chair:** (이메일)
-- **일반 문의:** (이메일)
+챕터에 대한 질문, 제안, 협력 요청 등을 아래 양식을 통해 보내주세요.
+
+**[📝 문의 양식 (Google Form)](https://docs.google.com/forms/d/e/PLACEHOLDER/viewform)**
+
+<!-- 위 URL을 실제 Google Form URL로 교체해 주세요 -->
 
 ### 커뮤니티 채널
 
