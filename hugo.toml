@@ -113,9 +113,10 @@ defaultContentLanguageInSubdir = true
   chapterNameKo = "IEEE Korea Council 지능형교통시스템 학회 챕터"
   foundedDate = "2025-12-02"
 
-  # Community links — fill these in
-  linkedinURL = ""
-  collabratecURL = ""
+  # Community links
+  linkedinURL = "https://www.linkedin.com/groups/17407009/"
+  collabratecURL = "https://ieee-collabratec.ieee.org/app/workspaces/9260/Korea-Chapter-ITS-Society/activities"
+  # KakaoTalk kept private — members can request access via contact page
   kakaoOpenChatURL = ""
 
   # Parent organizations
