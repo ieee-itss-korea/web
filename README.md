@@ -119,7 +119,7 @@ After cloning, update these items in `hugo.toml`:
 
 Also replace:
 - `static/images/ieee-itss-logo.png` — ITSS chapter logo (download from [ITSS Brand page](https://ieee-itss.org/about/brand/))
-- `static/images/ieee-mb-white.png` — IEEE master brand mark (white version, from [IEEE Brand Experience](https://brand-experience.ieee.org))
+- `static/images/ieee-logo-blk-200.webp` — IEEE master brand mark (white version, from [IEEE Brand Experience](https://brand-experience.ieee.org))
 - `static/images/favicon.ico` — Site favicon
 - Officer information in `content/leadership/`
 - Contact emails in `content/contact/`
