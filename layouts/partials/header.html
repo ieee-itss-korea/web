@@ -58,21 +58,18 @@
       {{ end }}
     </ul>
 
-    {{/* Language switcher */}}
+    {{/* Language switcher — swap /ko/ ↔ /en/ in the current URL.
+         Korean pages: .RelPermalink = /web/ko/...  → replace /ko/ with /en/
+         English pages: .RelPermalink = /web/...     → insert ko/ after base path
+         Our post-build script mirrors English pages into /en/. */}}
     <div class="lang-switch">
-      {{ if .IsTranslated }}
-        {{ range .Translations }}
-          <a href="{{ .RelPermalink }}" class="lang-link" title="{{ i18n "lang_switch" }}">
-            {{ .Language.LanguageName }}
-          </a>
-        {{ end }}
+      {{ if eq .Language.Lang "ko" }}
+        <a href="{{ .RelPermalink | replaceRE `/ko/` `/en/` 1 }}" class="lang-link" title="English">English</a>
       {{ else }}
-        {{/* Fallback: link to home of the other language */}}
-        {{ if eq $.Language.Lang "ko" }}
-          <a href="{{ "en/" | relURL }}" class="lang-link" title="English">English</a>
-        {{ else }}
-          <a href="{{ "ko/" | relURL }}" class="lang-link" title="한국어">한국어</a>
-        {{ end }}
+        {{ $path := .RelPermalink }}
+        {{ $base := site.Home.RelPermalink }}
+        {{ $rest := strings.TrimPrefix $base $path }}
+        <a href="{{ printf "%sko/%s" $base $rest }}" class="lang-link" title="한국어">한국어</a>
       {{ end }}
     </div>
   </div>

@@ -46,6 +46,21 @@ check_file_contains() {
   fi
 }
 
+# Required file must NOT contain a pattern — failure blocks deploy
+check_file_not_contains() {
+  local path="$1" pattern="$2" label="$3"
+  if [ -f "${PUBLIC_DIR}/${path}" ]; then
+    if grep -q "${pattern}" "${PUBLIC_DIR}/${path}"; then
+      echo "  ❌ ${label}"
+      ERRORS=$((ERRORS + 1))
+    else
+      echo "  ✅ ${label}"
+    fi
+  else
+    echo "  ⚠️  ${label}  (file missing, skipped)"
+  fi
+}
+
 # Optional file — warn if missing but don't block deploy
 check_file_warn() {
   local path="$1" label="$2"
@@ -79,6 +94,16 @@ verify_english_pages() {
   done
 }
 
+verify_language_switcher() {
+  echo "Language switcher"
+  # Korean homepage must link to /en/, not to root
+  check_file_contains  "ko/index.html" '/en/' "KO homepage links to /en/"
+  check_file_not_contains "ko/index.html" 'class="lang-link"[^>]*href="/web/"' \
+    "KO homepage does NOT link to root (would cause redirect loop)"
+  # English homepage must link to /ko/
+  check_file_contains  "en/index.html" '/ko/' "EN homepage links to /ko/"
+}
+
 verify_static_assets() {
   echo "Static assets"
   check_file "css/style.css"                  "CSS stylesheet"
@@ -104,6 +129,8 @@ echo ""
 verify_korean_pages
 echo ""
 verify_english_pages
+echo ""
+verify_language_switcher
 echo ""
 verify_static_assets
 
