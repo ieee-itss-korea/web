@@ -18,6 +18,10 @@ ERRORS=0
 # ---- Section list (edit here when adding new pages) -------------------------
 SECTIONS=(about leadership events news membership resources contact)
 
+# Events that must be published (edit here when adding/removing events)
+# These have future dates and require buildFuture = true in hugo.toml
+EVENTS=(2026-06-iv-2026 2026-09-itsc-2026)
+
 # ---- Helper functions -------------------------------------------------------
 
 # Required file must exist — failure blocks deploy
@@ -104,6 +108,17 @@ verify_language_switcher() {
   check_file_contains  "en/index.html" '/ko/' "EN homepage links to /ko/"
 }
 
+verify_future_content() {
+  echo "Future-dated content (buildFuture)"
+  for event in "${EVENTS[@]}"; do
+    check_file "ko/events/${event}/index.html" "/ko/events/${event}/"
+    check_file "en/events/${event}/index.html" "/en/events/${event}/"
+  done
+  # Homepage must show upcoming events (not the "no events" empty message)
+  check_file_not_contains "ko/index.html" 'class="empty-message"' \
+    "KO homepage shows events (not empty message)"
+}
+
 verify_deploy_sha() {
   echo "Deploy SHA"
   if [ -n "${HUGO_DEPLOY_SHA:-}" ]; then
@@ -141,6 +156,8 @@ echo ""
 verify_english_pages
 echo ""
 verify_language_switcher
+echo ""
+verify_future_content
 echo ""
 verify_deploy_sha
 echo ""
