@@ -25,6 +25,7 @@ defaultContentLanguageInSubdir = false
     title = "IEEE Korea Council ITS Society Chapter"
     languageName = "한국어"
     languageCode = "ko"
+    contentDir = "content"
     weight = 1
     [languages.ko.params]
       description = "IEEE Korea Council 지능형교통시스템 학회 챕터 공식 웹사이트"
@@ -66,6 +67,7 @@ defaultContentLanguageInSubdir = false
     title = "IEEE Korea Council ITS Society Chapter"
     languageName = "English"
     languageCode = "en"
+    contentDir = "content-en"
     weight = 2
     [languages.en.params]
       description = "Official website of the IEEE Korea Council Intelligent Transportation Systems Society Chapter"
