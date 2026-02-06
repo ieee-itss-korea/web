@@ -11,7 +11,7 @@ For inquiries about the chapter, please reach out through the channels below.
 
 For questions, suggestions, or collaboration requests, please use the form below.
 
-**[📝 Contact Form (Google Form)](YOUR_GOOGLE_FORM_URL_HERE)**
+**[📝 Contact Form (Google Form)](https://forms.gle/zFyReJdxHULLFrEY8)**
 
 ### Community Channels
 
