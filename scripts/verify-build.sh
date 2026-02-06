@@ -72,9 +72,10 @@ verify_korean_pages() {
 }
 
 verify_english_pages() {
-  echo "English pages"
+  echo "English pages (/en/)"
+  check_file "en/index.html" "/en/ homepage"
   for section in "${SECTIONS[@]}"; do
-    check_file_warn "${section}/index.html" "/${section}/ (en)"
+    check_file "en/${section}/index.html" "/en/${section}/"
   done
 }
 
@@ -88,7 +89,7 @@ print_summary() {
   echo ""
   local ko_pages en_pages
   ko_pages=$(find "${PUBLIC_DIR}/ko" -name 'index.html' 2>/dev/null | wc -l | tr -d ' ')
-  en_pages=$(find "${PUBLIC_DIR}" -maxdepth 2 -name 'index.html' -not -path '*/ko/*' 2>/dev/null | wc -l | tr -d ' ')
+  en_pages=$(find "${PUBLIC_DIR}/en" -name 'index.html' 2>/dev/null | wc -l | tr -d ' ')
   echo "📊 Pages: KO=${ko_pages}, EN=${en_pages}"
   echo "📦 Total size: $(du -sh "${PUBLIC_DIR}" | cut -f1)"
 }

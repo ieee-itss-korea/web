@@ -51,22 +51,8 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
 
-      - name: Force root redirect to Korean
-        run: |
-          cat > ./public/index.html << 'REDIRECT'
-          <!DOCTYPE html>
-          <html>
-          <head>
-            <meta charset="utf-8">
-            <meta http-equiv="refresh" content="0; url=./ko/">
-            <link rel="canonical" href="./ko/">
-            <title>IEEE Korea Council ITS Society Chapter</title>
-          </head>
-          <body>
-            <p>Redirecting to <a href="./ko/">한국어 페이지</a>...</p>
-          </body>
-          </html>
-          REDIRECT
+      - name: Fix language paths and root redirect
+        run: bash ./scripts/fix-language-paths.sh
 
       - name: Verify build output
         run: bash ./scripts/verify-build.sh
