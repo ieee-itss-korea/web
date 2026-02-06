@@ -1,11 +1,11 @@
 ---
 title: "Membership"
-description: "How to join the IEEE Korea Council ITS Society Chapter"
+description: "How to join the IEEE ITSS Korea Chapter"
 ---
 
 ## How to Join
 
-To become a member of the IEEE Korea Council ITS Society Chapter, you need:
+To become a member of the IEEE ITSS Korea Chapter, you need:
 
 1. **IEEE Membership**: Join at [ieee.org/join](https://www.ieee.org/membership/join/index.html)
 2. **IEEE ITS Society Membership**: Select ITS Society during or after IEEE registration

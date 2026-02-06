@@ -1,6 +1,6 @@
-# IEEE Korea Council ITS Society Chapter Website
+# IEEE ITSS Korea Chapter Website
 
-Official website of the IEEE Korea Council Intelligent Transportation Systems Society Chapter, built with [Hugo](https://gohugo.io) and hosted on GitHub Pages.
+Official website of the IEEE ITSS Korea Chapter, built with [Hugo](https://gohugo.io) and hosted on GitHub Pages.
 
 - **Live site:** https://ieee-itss-korea.github.io/web/
 - **Founded:** December 2, 2025

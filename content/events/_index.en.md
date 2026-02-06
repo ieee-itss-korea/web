@@ -1,6 +1,6 @@
 ---
 title: "Events"
-description: "IEEE Korea Council ITS Society Chapter events"
+description: "IEEE ITSS Korea Chapter events"
 ---
 
 Seminars, workshops, Distinguished Lecturer talks, and other chapter events.

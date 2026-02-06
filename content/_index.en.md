@@ -1,9 +1,9 @@
 ---
-title: "IEEE Korea Council ITS Society Chapter"
-description: "IEEE Korea Council ITS Society Chapter for research, education, and networking in intelligent transportation systems, autonomous driving, and smart mobility."
+title: "IEEE ITSS Korea Chapter"
+description: "IEEE ITSS Korea Chapter for research, education, and networking in intelligent transportation systems, autonomous driving, and smart mobility."
 ---
 
-Welcome to the **IEEE Korea Council ITS Society Chapter**.
+Welcome to the **IEEE ITSS Korea Chapter**.
 
 Officially established on December 2, 2025, our chapter brings together researchers, engineers, and students in the field of Intelligent Transportation Systems (ITS) under the IEEE ITS Society.
 

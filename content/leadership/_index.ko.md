@@ -1,6 +1,6 @@
 ---
 title: "임원진"
-description: "IEEE Korea Council ITS Society Chapter 임원 소개"
+description: "IEEE ITSS Korea Chapter 임원 소개"
 ---
 
 ## 2025–2026 임원진

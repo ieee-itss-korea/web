@@ -1,6 +1,6 @@
 ---
 title: "연락처"
-description: "IEEE Korea Council ITS Society Chapter 연락처"
+description: "IEEE ITSS Korea Chapter 연락처"
 ---
 
 ## 연락처

@@ -1,11 +1,11 @@
 ---
 title: "회원"
-description: "IEEE Korea Council ITS Society Chapter 회원 가입 안내"
+description: "IEEE ITSS Korea Chapter 회원 가입 안내"
 ---
 
 ## 회원 가입 안내
 
-IEEE Korea Council ITS Society Chapter의 회원이 되려면 다음 두 가지가 필요합니다:
+IEEE ITSS Korea Chapter의 회원이 되려면 다음 두 가지가 필요합니다:
 
 1. **IEEE 회원** 가입: [ieee.org/join](https://www.ieee.org/membership/join/index.html)
 2. **IEEE ITS Society 회원** 가입: IEEE 회원 가입 시 또는 이후에 ITS Society를 선택

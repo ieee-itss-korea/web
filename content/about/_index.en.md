@@ -1,11 +1,11 @@
 ---
 title: "About"
-description: "About the IEEE Korea Council ITS Society Chapter"
+description: "About the IEEE ITSS Korea Chapter"
 ---
 
 ## About the Chapter
 
-The IEEE Korea Council ITS Society Chapter is a technical chapter under the IEEE ITS Society, serving professionals in Intelligent Transportation Systems (ITS) across South Korea.
+The IEEE ITSS Korea Chapter is a technical chapter under the IEEE ITS Society, serving professionals in Intelligent Transportation Systems (ITS) across South Korea.
 
 ### Establishment
 

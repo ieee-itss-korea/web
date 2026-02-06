@@ -54,7 +54,7 @@ cat > "${PUBLIC_DIR}/index.html" << 'REDIRECT'
   <meta charset="utf-8">
   <meta http-equiv="refresh" content="0; url=./ko/">
   <link rel="canonical" href="./ko/">
-  <title>IEEE Korea Council ITS Society Chapter</title>
+  <title>IEEE ITSS Korea Chapter</title>
 </head>
 <body>
   <p>Redirecting to <a href="./ko/">한국어 페이지</a>...</p>

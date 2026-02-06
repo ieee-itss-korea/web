@@ -84,7 +84,7 @@ verify_redirect() {
 
 verify_korean_pages() {
   echo "Korean pages"
-  check_file_contains "ko/index.html" '한국어\|홈\|챕터' "Korean homepage"
+  check_file_contains "ko/index.html" '한국어\|홈\|IEEE ITSS' "Korean homepage"
   for section in "${SECTIONS[@]}"; do
     check_file "ko/${section}/index.html" "/ko/${section}/"
   done

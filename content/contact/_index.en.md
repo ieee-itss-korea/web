@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-description: "Contact the IEEE Korea Council ITS Society Chapter"
+description: "Contact the IEEE ITSS Korea Chapter"
 ---
 
 ## Contact Us

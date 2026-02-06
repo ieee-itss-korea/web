@@ -1,6 +1,6 @@
 ---
 title: "행사"
-description: "IEEE Korea Council ITS Society Chapter 행사 안내"
+description: "IEEE ITSS Korea Chapter 행사 안내"
 ---
 
 세미나, 워크숍, Distinguished Lecturer 초청 강연 등 챕터 행사 정보를 안내합니다.

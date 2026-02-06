@@ -1,11 +1,11 @@
 ---
 title: "소개"
-description: "IEEE Korea Council ITS Society Chapter 소개"
+description: "IEEE ITSS Korea Chapter 소개"
 ---
 
 ## 챕터 소개
 
-IEEE Korea Council ITS Society Chapter는 대한민국의 지능형교통시스템(ITS) 분야 전문가들을 위한 IEEE ITS Society 산하 기술 챕터입니다.
+IEEE ITSS Korea Chapter는 대한민국의 지능형교통시스템(ITS) 분야 전문가들을 위한 IEEE ITS Society 산하 기술 챕터입니다.
 
 ### 설립
 

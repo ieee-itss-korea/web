@@ -1,10 +1,10 @@
 ---
-title: "IEEE Korea Council ITS Society Chapter 공식 설립"
+title: "IEEE ITSS Korea Chapter 공식 설립"
 date: 2025-12-02
-description: "2025년 12월 2일, IEEE Korea Council ITS Society Chapter가 공식 설립되었습니다."
+description: "2025년 12월 2일, IEEE ITSS Korea Chapter가 공식 설립되었습니다."
 ---
 
-2025년 12월 2일, IEEE Korea Council ITS Society Chapter가 공식 설립되었습니다.
+2025년 12월 2일, IEEE ITSS Korea Chapter가 공식 설립되었습니다.
 
 본 챕터는 IEEE ITS Society 산하 기술 챕터로서, 대한민국의 지능형교통시스템 분야 연구자, 엔지니어, 학생들의 학술 교류와 전문 네트워킹을 지원합니다.
 

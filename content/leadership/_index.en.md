@@ -1,6 +1,6 @@
 ---
 title: "Leadership"
-description: "Officers of the IEEE Korea Council ITS Society Chapter"
+description: "Officers of the IEEE ITSS Korea Chapter"
 ---
 
 ## 2025–2026 Officers
