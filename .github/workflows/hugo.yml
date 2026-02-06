@@ -45,7 +45,7 @@ jobs:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
           TZ: Asia/Seoul
-          DEPLOY_SHA: ${{ github.sha }}
+          HUGO_DEPLOY_SHA: ${{ github.sha }}
         run: |
           hugo \
             --gc \
@@ -56,6 +56,8 @@ jobs:
         run: bash ./scripts/fix-language-paths.sh
 
       - name: Verify build output
+        env:
+          HUGO_DEPLOY_SHA: ${{ github.sha }}
         run: bash ./scripts/verify-build.sh
 
       - name: Upload artifact

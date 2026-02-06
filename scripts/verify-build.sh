@@ -106,11 +106,11 @@ verify_language_switcher() {
 
 verify_deploy_sha() {
   echo "Deploy SHA"
-  if [ -n "${DEPLOY_SHA:-}" ]; then
-    local short_sha="${DEPLOY_SHA:0:7}"
+  if [ -n "${HUGO_DEPLOY_SHA:-}" ]; then
+    local short_sha="${HUGO_DEPLOY_SHA:0:7}"
     check_file_contains "ko/index.html" "${short_sha}" "KO homepage contains deploy SHA (${short_sha})"
   else
-    echo "  ⚠️  DEPLOY_SHA not set (local build?) — skipping"
+    echo "  ⚠️  HUGO_DEPLOY_SHA not set (local build?) — skipping"
   fi
 }
 

@@ -46,7 +46,7 @@
         <a href="https://www.ieee.org/about/compliance/ethics/reporting.html" target="_blank" rel="noopener">IEEE Ethics Reporting</a>
       </div>
       <p class="footer-copyright">{{ i18n "footer_copyright" }}</p>
-      {{ $sha := getenv "DEPLOY_SHA" }}
+      {{ $sha := getenv "HUGO_DEPLOY_SHA" }}
       {{ if $sha }}
       <p class="footer-build">{{ substr $sha 0 7 }} &middot; {{ now.Format "2006-01-02" }}</p>
       {{ else }}
