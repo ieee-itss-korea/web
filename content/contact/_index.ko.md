@@ -11,9 +11,7 @@ description: "IEEE ITSS Korea Chapter 연락처"
 
 챕터에 대한 질문, 제안, 협력 요청 등을 아래 양식을 통해 보내주세요.
 
-**[📝 문의 양식 (Google Form)](https://docs.google.com/forms/d/e/PLACEHOLDER/viewform)**
-
-<!-- 위 URL을 실제 Google Form URL로 교체해 주세요 -->
+**[📝 문의 양식 (Google Form)](YOUR_GOOGLE_FORM_URL_HERE)**
 
 ### 커뮤니티 채널
 

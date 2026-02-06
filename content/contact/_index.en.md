@@ -7,13 +7,11 @@ description: "Contact the IEEE ITSS Korea Chapter"
 
 For inquiries about the chapter, please reach out through the channels below.
 
-### Contact Us
+### Inquiry Form
 
 For questions, suggestions, or collaboration requests, please use the form below.
 
-**[📝 Contact Form (Google Form)](https://docs.google.com/forms/d/e/PLACEHOLDER/viewform)**
-
-<!-- Replace the URL above with your actual Google Form URL -->
+**[📝 Contact Form (Google Form)](YOUR_GOOGLE_FORM_URL_HERE)**
 
 ### Community Channels
 
