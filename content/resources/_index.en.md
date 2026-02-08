@@ -20,6 +20,12 @@ description: "ITS-related resources and links"
 | [ITSC](https://ieee-itss.org/conf/itsc/) | IEEE International Conference on Intelligent Transportation Systems |
 | [IV](https://ieee-itss.org/conf/iv/) | IEEE Intelligent Vehicles Symposium |
 
+### Tools
+
+| Tool | Description | Link |
+|------|-------------|------|
+| Timezone Table | Meeting time converter across world cities (GitHub Actions) | [GitHub](https://github.com/kangwonlee/timezone-table) |
+
 ### Useful Links
 
 - [IEEE ITS Society](https://ieee-itss.org)
