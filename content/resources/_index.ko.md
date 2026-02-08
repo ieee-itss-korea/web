@@ -24,7 +24,7 @@ description: "ITS 관련 자료 및 링크"
 
 | 도구 | 설명 | 링크 |
 |------|------|------|
-| Timezone Table | 국제 회의 시간 변환 도구 (GitHub Actions 기반) | [GitHub](https://github.com/kangwonlee/timezone-table) |
+| Timezone Table | 국제 회의 시간 변환 도구 (GitHub Actions 기반) | [GitHub](https://github.com/kangwonlee/timezone-table/blob/main/README.ko.md) |
 
 ### 유용한 링크
 
