@@ -31,6 +31,7 @@ Oak Ridge National Laboratory (ORNL) 연구자들이 ADAS 및 자율주행차 �
 ## 참가 방법
 
 - **Webex 링크:** [웨비나 참가](https://ieeesa.webex.com/ieeesa/j.php?MTID=meb59d52114abfa9eb5eb071e0a5e3a3c)
+- **행사 안내문:** [PDF](https://drive.google.com/file/d/1ZrTM4Rzoc82DKx2SR6IDoj36ziGBYTnC/view)
 
 ## 문의
 

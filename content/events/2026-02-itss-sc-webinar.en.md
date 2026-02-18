@@ -32,6 +32,7 @@ This presentation will provide an overview of VIL testing methodologies, highlig
 ## How to Join
 
 - **Webex Link:** [Join Webinar](https://ieeesa.webex.com/ieeesa/j.php?MTID=meb59d52114abfa9eb5eb071e0a5e3a3c)
+- **Event Flyer:** [PDF](https://drive.google.com/file/d/1ZrTM4Rzoc82DKx2SR6IDoj36ziGBYTnC/view)
 
 ## Contact
 
