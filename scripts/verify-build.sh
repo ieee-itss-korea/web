@@ -20,7 +20,7 @@ SECTIONS=(about leadership events news membership resources contact)
 
 # Events that must be published (edit here when adding/removing events)
 # These have future dates and require buildFuture = true in hugo.toml
-EVENTS=(2026-03-dl-scaramuzza 2026-06-iv-2026 2026-09-itsc-2026 2027-06-iv-2027)
+EVENTS=(2026-02-itss-sc-webinar 2026-03-dl-scaramuzza 2026-06-iv-2026 2026-09-itsc-2026 2027-06-iv-2027)
 
 # ---- Helper functions -------------------------------------------------------
 
