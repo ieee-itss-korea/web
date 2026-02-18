@@ -26,6 +26,14 @@ description: "ITS-related resources and links"
 |------|-------------|------|
 | Timezone Table | Meeting time converter across world cities (GitHub Actions) | [GitHub](https://github.com/kangwonlee/timezone-table) |
 
+### Reference Documents
+
+| Document | Description | Link |
+|----------|-------------|------|
+| MGA Operations Manual January 2026 (Excerpt) | Sections relevant to Chapter Chairs (9.4, 9.7, 9.13, 10.0) | [English](/web/docs/MGA_Operations_Manual_2026_January_EN.html) |
+| MGA Operations Manual 2026년 1월판 (발췌, 한국어) | Korean translation of Chapter-relevant sections | [한국어](/web/docs/MGA_Operations_Manual_2026_January_KR.html) |
+| MGA Operations Manual (Full) | Official IEEE MGA Operations Manual | [IEEE MGA](https://mga.ieee.org/board-committees/operations-manual) |
+
 ### Useful Links
 
 - [IEEE ITS Society](https://ieee-itss.org)
