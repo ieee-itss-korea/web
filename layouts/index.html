@@ -21,7 +21,7 @@
 <section class="section section--alt">
   <div class="container">
     <h2>{{ i18n "upcoming_events" }}</h2>
-    {{ $events := where (where .Site.RegularPages "Section" "events") ".Date" "ge" now }}
+    {{ $events := sort (where (where .Site.RegularPages "Section" "events") ".Date" "ge" now) ".Date" "asc" }}
     {{ if $events }}
       <div class="card-grid">
         {{ range first 3 $events }}
