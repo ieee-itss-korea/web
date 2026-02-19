@@ -8,6 +8,8 @@ A Korean-language video series introducing the 21 ITSC 2025 Best Paper Award can
 
 Each video summarizes the key contributions of a candidate paper in Korean podcast format, generated using Google NotebookLM. The series covers the latest research trends in intelligent transportation systems presented at ITSC 2025 (Edmonton, Canada, September 2025).
 
+[![ITSC 2025 Best Paper Award Video Series](https://i.ytimg.com/vi/bEkTLIwtGcE/hqdefault.jpg)](https://youtube.com/playlist?list=PLft2iIV-r6LH8NeBvVMw_u13tl1dcJbk1)
+
 **[YouTube Playlist (21 videos, Korean audio)](https://youtube.com/playlist?list=PLft2iIV-r6LH8NeBvVMw_u13tl1dcJbk1)**
 
 Note: The videos are in Korean only.
