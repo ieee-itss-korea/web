@@ -3,7 +3,7 @@ title: "ITSS Standards Committee Webinar — Quantum-Safe Cryptography for ITS"
 date: 2026-03-20
 draft: false
 description: "IEEE ITSS Standards Committee Webinar: Quantum-Safe Cryptography: Awareness and Engineering Readiness for Intelligent Transportation Systems. March 20, 2026, Online."
-event_date: "March 20, 2026 (Fri) 00:00 KST (Mar 21) / 08:00 PDT / 16:00 CET"
+event_date: "March 20, 2026 (Fri) 00:00 KST (Mar 21) / 08:00 PDT / 11:00 EDT / 15:00 GMT / 16:00 CET"
 location: "Online (Webex)"
 ---
 
