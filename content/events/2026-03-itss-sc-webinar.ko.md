@@ -35,6 +35,7 @@ Doga Tav는 IBM의 Principal Architect(Senior Technical Staff Member)로, 인공
 ## 참가 방법
 
 - **Webex 링크:** [웨비나 참가](https://ieeesa.webex.com/ieeesa/j.php?MTID=ma0c9d24603f39469cc58901ae8f39275)
+- **캘린더 추가:** [캘린더 항목](https://addcal.io/e/mtgj3jmruggn)
 
 ## 문의
 

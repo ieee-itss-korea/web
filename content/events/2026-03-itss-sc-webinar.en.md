@@ -36,6 +36,7 @@ Doga Tav is a Principal Architect (Senior Technical Staff Member) at IBM, workin
 ## How to Join
 
 - **Webex Link:** [Join Webinar](https://ieeesa.webex.com/ieeesa/j.php?MTID=ma0c9d24603f39469cc58901ae8f39275)
+- **Add to Calendar:** [Calendar Entry](https://addcal.io/e/mtgj3jmruggn)
 
 ## Contact
 
