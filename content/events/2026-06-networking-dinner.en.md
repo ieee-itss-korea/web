@@ -1,36 +1,43 @@
 ---
-title: "IEEE ITSS Korea Chapter Networking Dinner"
+title: "IEEE ITSS Korea Chapter Meeting #2 — IV 2026 Korean Networking Dinner @ Detroit"
 date: 2026-06-23
 draft: true
-description: "IEEE ITSS Korea Chapter networking dinner on June 23, 2026. Registration closes June 16, 2026."
-event_date: "June 23, 2026 (Tue) [CONFIRM: start time] KST"
-location: "[CONFIRM: venue/location]"
+description: "Korean networking dinner for IV 2026 attendees in Detroit on June 23, 2026 (17:30–20:30 EDT). Hosted by the IEEE ITSS Korea Chapter. Registration closes June 16, 2026."
+event_date: "June 23, 2026 (Tue) 17:30–20:30 EDT (Detroit local)"
+location: "Daebak Korean BBQ, 27566 Northwestern Hwy, Southfield, MI 48034, USA"
 ---
+<!-- DRAFT: details confirmed from vTools. Remaining steps before going live: review → flip `draft: false` → publish. -->
 
-**IEEE ITSS Korea Chapter Networking Dinner**
+**IEEE ITSS Korea Chapter Meeting #2 — IV 2026 Korean Networking Dinner @ Detroit**
 
-The IEEE ITSS Korea Chapter invites you to an evening networking dinner on **June 23, 2026**. Join fellow members, researchers, and practitioners for an informal gathering to connect, share ideas, and build community around intelligent transportation systems.
+Held alongside the **IEEE Intelligent Vehicles Symposium (IV 2026)** in Detroit, this networking dinner brings together Korean researchers, engineers, and graduate students attending the conference. Over a relaxed Korean BBQ dinner, connect with peers, exchange ideas on IV 2026 papers, and build lasting links across the intelligent transportation systems community. Korea Chapter members are warmly welcome.
 
-> **Registration closes Tuesday, June 16, 2026.** Seats are limited — please register before the deadline.
+> **Registration closes Tuesday, June 16, 2026.** Seats are limited — please register via the IEEE vTools event page before the deadline.
 
 ## Event Details
 
 | | |
 |---|---|
 | **Date** | Tuesday, June 23, 2026 |
-| **Time** | [CONFIRM: start time] KST |
-| **Venue** | [CONFIRM: venue/location] |
-| **Fee** | [CONFIRM: fee/cost — free? member-subsidized? per-person cost?] |
-| **Eligibility** | [CONFIRM: members only, or open to non-members/guests?] |
-| **Capacity** | [CONFIRM: capacity / number of seats] |
+| **Time** | 17:30–20:30 EDT (Detroit local) — equivalent to Wed, June 24, 06:30–09:30 KST |
+| **Venue** | Daebak Korean BBQ, 27566 Northwestern Hwy, Southfield, MI 48034, USA |
+| **Fee** | Approx. USD $40–50 per person, paid on the day (no member / non-member distinction) |
+| **Who should attend** | Korean researchers, engineers, and graduate students attending IV 2026; Korea Chapter members welcome |
 | **Organizer** | IEEE Korea Council Chapter ITSS38 |
+
+## Agenda
+
+| Time (EDT) | Program |
+|---|---|
+| 17:30–18:00 | Arrival & introductions |
+| 18:00–19:30 | Dinner + open conversation on IV 2026 papers and ITS research |
+| 19:30–20:30 | Extended networking with coffee / dessert |
 
 ## How to Register
 
 - **Registration deadline:** Tuesday, June 16, 2026
-- **Register here:** [CONFIRM: registration link / method (e.g., vTools event page, form, email)]
-- **Capacity:** [CONFIRM: capacity — first-come, first-served?]
+- **Register here:** [IEEE vTools event page](https://events.vtools.ieee.org/m/558678)
 
 ## Contact
 
-[CONFIRM: RSVP / contact name and email]
+IEEE ITSS Korea Chapter Chair, **Kangwon Lee** — [contact form](https://forms.gle/zFyReJdxHULLFrEY8)
