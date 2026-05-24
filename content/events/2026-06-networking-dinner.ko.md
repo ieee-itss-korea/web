@@ -1,12 +1,11 @@
 ---
 title: "IEEE ITSS 한국 지회 2차 모임 — IV 2026 한국인 네트워킹 디너 @ 디트로이트"
 date: 2026-06-23
-draft: true
+draft: false
 description: "IV 2026 참석자를 위한 한국인 네트워킹 디너 — 2026년 6월 23일 디트로이트에서 개최 (현지 17:30–20:30 EDT). IEEE ITSS 한국 지회 주최. 등록 마감은 2026년 6월 16일입니다."
 event_date: "2026년 6월 23일 (화) 17:30–20:30 EDT (디트로이트 현지 시각)"
 location: "Daebak Korean BBQ, 27566 Northwestern Hwy, Southfield, MI 48034, USA"
 ---
-<!-- DRAFT: vTools에서 확인된 정보로 작성. 공개 전 남은 단계: 검토 → `draft: false`로 변경 → 게시. -->
 
 **IEEE ITSS 한국 지회 2차 모임 — IV 2026 한국인 네트워킹 디너 @ 디트로이트**
 

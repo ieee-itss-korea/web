@@ -1,12 +1,11 @@
 ---
 title: "IEEE ITSS Korea Chapter Meeting #2 — IV 2026 Korean Networking Dinner @ Detroit"
 date: 2026-06-23
-draft: true
+draft: false
 description: "Korean networking dinner for IV 2026 attendees in Detroit on June 23, 2026 (17:30–20:30 EDT). Hosted by the IEEE ITSS Korea Chapter. Registration closes June 16, 2026."
 event_date: "June 23, 2026 (Tue) 17:30–20:30 EDT (Detroit local)"
 location: "Daebak Korean BBQ, 27566 Northwestern Hwy, Southfield, MI 48034, USA"
 ---
-<!-- DRAFT: details confirmed from vTools. Remaining steps before going live: review → flip `draft: false` → publish. -->
 
 **IEEE ITSS Korea Chapter Meeting #2 — IV 2026 Korean Networking Dinner @ Detroit**
 
