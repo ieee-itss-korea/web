@@ -75,6 +75,9 @@ other = "Back to list"
 [event_date]
 other = "Date"
 
+[event_date_label]
+other = "Event date"
+
 [event_location]
 other = "Location"
 
