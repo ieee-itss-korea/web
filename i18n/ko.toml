@@ -75,6 +75,9 @@ other = "목록으로"
 [event_date]
 other = "일시"
 
+[event_date_label]
+other = "행사일"
+
 [event_location]
 other = "장소"
 

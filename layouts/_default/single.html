@@ -4,7 +4,7 @@
 
     <header class="content-header">
       {{ if .Date }}
-      <time class="content-date">{{ i18n "posted_on" }}: {{ .Date.Format "2006-01-02" }}</time>
+      <time class="content-date">{{ if eq .Section "events" }}{{ i18n "event_date_label" }}{{ else }}{{ i18n "posted_on" }}{{ end }}: {{ .Date.Format "2006-01-02" }}</time>
       {{ end }}
       <h1>{{ .Title }}</h1>
       {{ with .Params.subtitle }}<p class="content-subtitle">{{ . }}</p>{{ end }}
