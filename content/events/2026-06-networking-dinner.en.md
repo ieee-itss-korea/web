@@ -4,7 +4,7 @@ date: 2026-06-23
 draft: false
 description: "Korean networking dinner for IV 2026 attendees in Detroit on June 23, 2026 (17:30–20:30 EDT). Hosted by the IEEE ITSS Korea Chapter. Registration closes June 16, 2026."
 event_date: "June 23, 2026 (Tue) 17:30–20:30 EDT (Detroit local)"
-location: "Daebak Korean BBQ, 27566 Northwestern Hwy, Southfield, MI 48034, USA"
+location: "To be announced (near the conference venue)"
 ---
 
 **IEEE ITSS Korea Chapter Meeting #2 — IV 2026 Korean Networking Dinner @ Detroit**
@@ -19,7 +19,7 @@ Held alongside the **IEEE Intelligent Vehicles Symposium (IV 2026)** in Detroit,
 |---|---|
 | **Date** | Tuesday, June 23, 2026 |
 | **Time** | 17:30–20:30 EDT (Detroit local) — equivalent to Wed, June 24, 06:30–09:30 KST |
-| **Venue** | Daebak Korean BBQ, 27566 Northwestern Hwy, Southfield, MI 48034, USA |
+| **Venue** | To be announced (near the conference venue) |
 | **Fee** | Approx. USD $40–50 per person, paid on the day (no member / non-member distinction) |
 | **Who should attend** | Korean researchers, engineers, and graduate students attending IV 2026; Korea Chapter members welcome |
 | **Organizer** | IEEE Korea Council Chapter ITSS38 |
