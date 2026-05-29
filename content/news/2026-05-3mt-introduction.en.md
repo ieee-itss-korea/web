@@ -11,7 +11,7 @@ The Korea Chapter is introducing the **Three Minute Thesis (3MT®)** format to i
 
 Originated at the University of Queensland in 2008, 3MT challenges graduate researchers to explain their work to a non-specialist audience in **three minutes, with a single slide (no animation or video)**. No additional media, props, or instruments — spoken word only. The format is now run at many institutions worldwide.
 
-We see 3MT as a strong fit for **recent PhDs and master's degree holders** in the ITS community. The ability to convey complex research clearly to a broad audience is increasingly central to both academic and industry careers, and the 3MT discipline — one slide, three minutes, plain language — sharpens exactly that skill.
+We see 3MT as a strong fit for **recent PhDs and master's degree holders** in the ITS community. The ability to convey complex research clearly to a broad audience is increasingly central to both academic and industry careers, and the 3MT discipline — one slide, three minutes, plain terms — sharpens exactly that skill.
 
 The Chapter is exploring how to introduce 3MT as a structured activity in coming cycles. Members interested in the format are encouraged to view example presentations on the [official 3MT site](https://threeminutethesis.uq.edu.au/) and share thoughts via our LinkedIn Group.
 
