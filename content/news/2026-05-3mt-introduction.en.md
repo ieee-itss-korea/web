@@ -1,5 +1,5 @@
 ---
-title: "Three Minute Thesis (3MT) — A New Direction for Member Communication Skills"
+title: "Three Minute Thesis (3MT) — A New Direction for Member Research Communication Skills"
 date: 2026-05-11
 description: "Korea Chapter introduces the Three Minute Thesis (3MT) format as a future member-development activity, complementing the ITSS Best Dissertation Award."
 build:
@@ -9,7 +9,7 @@ build:
 
 The Korea Chapter is introducing the **Three Minute Thesis (3MT®)** format to its members as a future activity for research-communication skill development.
 
-Originated at the University of Queensland in 2008, 3MT challenges graduate researchers to explain their work to a non-specialist audience in **three minutes, with a single static slide**. No additional media, props, or instruments — spoken word only. The format is now run at hundreds of institutions worldwide.
+Originated at the University of Queensland in 2008, 3MT challenges graduate researchers to explain their work to a non-specialist audience in **three minutes, with a single slide (no animation or video)**. No additional media, props, or instruments — spoken word only. The format is now run at many institutions worldwide.
 
 We see 3MT as a strong fit for **recent PhDs and master's degree holders** in the ITS community. The ability to convey complex research clearly to a broad audience is increasingly central to both academic and industry careers, and the 3MT discipline — one slide, three minutes, plain language — sharpens exactly that skill.
 
