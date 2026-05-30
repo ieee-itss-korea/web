@@ -4,7 +4,7 @@ date: 2026-06-23
 draft: false
 description: "IV 2026 참석자를 위한 한국인 네트워킹 디너 — 2026년 6월 23일 디트로이트에서 개최 (현지 17:30–20:30 EDT). IEEE ITSS 한국 지회 주최. 등록 마감은 2026년 6월 16일입니다."
 event_date: "2026년 6월 23일 (화) 17:30–20:30 EDT (디트로이트 현지 시각)"
-location: "Daebak Korean BBQ, 27566 Northwestern Hwy, Southfield, MI 48034, USA"
+location: "추후 공지 (학술대회장 인근)"
 ---
 
 **IEEE ITSS 한국 지회 2차 모임 — IV 2026 한국인 네트워킹 디너 @ 디트로이트**
@@ -19,7 +19,7 @@ location: "Daebak Korean BBQ, 27566 Northwestern Hwy, Southfield, MI 48034, USA"
 |---|---|
 | **일자** | 2026년 6월 23일 (화) |
 | **시간** | 17:30–20:30 EDT (디트로이트 현지 시각) — 한국 시각 기준 6월 24일 (수) 06:30–09:30 KST |
-| **장소** | Daebak Korean BBQ, 27566 Northwestern Hwy, Southfield, MI 48034, USA |
+| **장소** | 추후 공지 (학술대회장 인근) |
 | **참가비** | 1인당 약 USD $40–50, 당일 현장 결제 (회원/비회원 구분 없음) |
 | **참가 대상** | IV 2026에 참석하는 한국인 연구자·엔지니어·대학원생; 한국 지회 회원 환영 |
 | **주최** | IEEE Korea Council Chapter ITSS38 |
