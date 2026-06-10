@@ -7,6 +7,8 @@ build:
   list: never
 ---
 
+> **[Update — June 2026]** The 3MT format introduced below is now confirmed as the 2026 IEEE ITSS Korea Chapter Academic Presentation Competition (3MT), and registration is open (deadline: July 22, 2026 (Wed), 23:59 KST). See the [event page]({{< relref "/events/2026-08-3mt-competition" >}}) for details.
+
 The Korea Chapter is introducing the **Three Minute Thesis (3MT®)** format to its members as a future activity for research-communication skill development.
 
 Originated at the University of Queensland in 2008, 3MT challenges graduate researchers to explain their work to a non-specialist audience in **three minutes, with a single slide (no animation or video)**. No additional media, props, or instruments — spoken word only. The format is now run at many institutions worldwide.
