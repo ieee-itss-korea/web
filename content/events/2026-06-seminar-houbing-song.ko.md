@@ -10,9 +10,9 @@ speaker: "Prof. Houbing H. Song (University of Maryland, USA)"
 
 **세미나 안내 — Neuro-symbolic AI for Trustworthy Systems in Intelligent Transportation Systems**
 
-**IEEE VTS Seoul Section Chapter**와 **고려대학교 BK21 IoT Data Science**가 주최하는 세미나를 회원 여러분께 안내드립니다. 본 세미나는 IEEE ITSS 한국 지회가 주최·후원하는 행사가 아니며, 주최 측의 안내에 따라 회원 여러분께 공유드리는 것임을 알려드립니다. Prof. Houbing H. Song (University of Maryland, USA)께서 「Neuro-symbolic AI for Trustworthy Systems in Intelligent Transportation Systems」를 주제로 강연하시며, 현장과 온라인(Zoom)으로 동시에 진행되는 하이브리드 행사입니다.
+**IEEE VTS Seoul Section Chapter** 와 **고려대학교 BK21 IoT Data Science** 가 주최하는 세미나를 회원 여러분께 안내드립니다. 본 세미나는 IEEE ITSS 한국 지회가 주최·후원하는 행사가 아니며, 주최 측의 안내에 따라 회원 여러분께 공유드리는 것임을 알려드립니다. Prof. Houbing H. Song (University of Maryland, USA)께서 「Neuro-symbolic AI for Trustworthy Systems in Intelligent Transportation Systems」를 주제로 강연하시며, 현장과 온라인(Zoom)으로 동시에 진행되는 하이브리드 행사입니다.
 
-> **등록 마감: 2026년 6월 28일 (일).** 참가를 원하시는 분은 마감일 전까지 **성명·소속·이메일 주소**를 적어 고려대학교 **조민호 교수님(minhojo@korea.ac.kr)** 께 이메일로 보내 주시기 바랍니다. 등록하신 분께는 Zoom 링크가 이메일로 전달됩니다.
+> **등록 마감: 2026년 6월 28일 (일).** 참가를 원하시는 분은 마감일 전까지 **성명·소속·이메일 주소** 를 적어 고려대학교 **조민호 교수님(minhojo@korea.ac.kr)** 께 이메일로 보내 주시기 바랍니다. 등록하신 분께는 Zoom 링크가 이메일로 전달됩니다.
 >
 > *본 세미나의 공식 등록 창구는 조민호 교수님 이메일이며, IEEE ITSS 한국 지회는 안내만 드립니다.*
 
@@ -32,12 +32,12 @@ Neuro-symbolic AI는 신경망(neural networks)과 기호 추론(symbolic reason
 
 ## 연사 소개
 
-**Prof. Houbing H. Song** (University of Maryland, USA)은 IEEE Fellow, ACM Distinguished Member, IEEE Distinguished Lecturer이며, 보안·사이버-물리 시스템·IoT·AI를 연구하는 **SONG Lab**의 디렉터입니다. *IEEE Transactions on Intelligent Transportation Systems*의 Associate Editor, *IEEE Transactions on Industrial Informatics*의 Co-Editor-in-Chief를 맡고 있으며, 2021년부터 현재까지 Highly Cited Researcher로 선정되었습니다 (h-index 101). 2012년 University of Virginia에서 전기공학(Electrical Engineering) 박사 학위를 받았습니다.
+**Prof. Houbing H. Song** (University of Maryland, USA)은 IEEE Fellow, ACM Distinguished Member, IEEE Distinguished Lecturer이며, 보안·사이버-물리 시스템·IoT·AI를 연구하는 **SONG Lab** 의 디렉터입니다. *IEEE Transactions on Intelligent Transportation Systems*의 Associate Editor, *IEEE Transactions on Industrial Informatics*의 Co-Editor-in-Chief를 맡고 있으며, 2021년부터 현재까지 Highly Cited Researcher로 선정되었습니다 (h-index 101). 2012년 University of Virginia에서 전기공학(Electrical Engineering) 박사 학위를 받았습니다.
 
 ## 참가 방법
 
 - **등록 마감:** 2026년 6월 28일 (일)
-- **등록 방법:** **성명·소속·이메일 주소**를 적어 고려대학교 **조민호 교수님(minhojo@korea.ac.kr)** 께 이메일로 보내 주시기 바랍니다.
+- **등록 방법:** **성명·소속·이메일 주소** 를 적어 고려대학교 **조민호 교수님(minhojo@korea.ac.kr)** 께 이메일로 보내 주시기 바랍니다.
 - 등록을 완료하신 분께 Zoom 링크가 이메일로 전달됩니다.
 - 본 세미나의 등록 창구는 조민호 교수님 이메일이며, IEEE ITSS 한국 지회를 통한 별도 등록 절차는 없습니다.
 
