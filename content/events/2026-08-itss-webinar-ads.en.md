@@ -27,8 +27,6 @@ The IEEE Intelligent Transportation Systems Society (ITSS) invites you to a webi
 
 Autonomous driving is advancing on two fronts at once. On board the **vehicle**, increasingly capable perception, prediction, and planning stacks are expanding what a single automated vehicle can sense and decide. From the **roadside**, infrastructure-based sensing and connectivity extend perception beyond the line of sight of any one vehicle and enable cooperative, system-level intelligence. This webinar brings together perspectives from industry and academia on how these two vantage points are evolving — and converging.
 
-*The full abstract and speaker details are available on the registration page.*
-
 ## How to Join
 
 - **Register:** [Webex registration](https://ieee.webex.com/weblink/register/r1995476600ba135daf5b4c1f1bed4089)
@@ -38,4 +36,4 @@ For more information, visit the [IEEE Intelligent Transportation Systems Society
 
 ---
 
-*This is an IEEE ITSS Society webinar that we are sharing with our members. For those in Korea, the live session falls at 00:00–01:00 KST on Friday, August 7 — registering ensures you receive any follow-up materials even if you cannot join live.*
+*This is an IEEE ITSS Society webinar that we are sharing with our members. For those in Korea, note that the live session falls at 00:00–01:00 KST on Friday, August 7.*
