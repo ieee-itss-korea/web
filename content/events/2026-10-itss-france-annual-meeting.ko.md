@@ -20,6 +20,7 @@ IEEE ITSS 프랑스 지회가 제2회 연례 총회를 개최합니다. 프랑�
 | **형식** | 하이브리드 (현장 및 온라인) |
 | **장소** | Centre International de Conférences Sorbonne Université (CICSU), Room 116, Campus Pierre et Marie Curie, 4 place Jussieu, 75005 Paris |
 | **주최** | IEEE ITSS France Chapter |
+| **참가 신청** | [신청 양식](https://forms.cloud.microsoft/pages/responsepage.aspx?id=05LCy3TSBEKRaRaEe2eABD8zXVGHwTFNm2C0CZq0QlNUQVVDUzFCR0wyWU43N1ZZU0NaT1VGMkhGMi4u) |
 
 ## 프로그램 주요 내용
 

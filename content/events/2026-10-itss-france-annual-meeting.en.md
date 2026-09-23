@@ -20,6 +20,7 @@ The IEEE Intelligent Transportation Systems Society France Chapter is holding it
 | **Format** | Hybrid (in person and online) |
 | **Venue** | Centre International de Conférences Sorbonne Université (CICSU), Room 116, Campus Pierre et Marie Curie, 4 place Jussieu, 75005 Paris |
 | **Organizer** | IEEE ITSS France Chapter |
+| **Registration** | [Register here](https://forms.cloud.microsoft/pages/responsepage.aspx?id=05LCy3TSBEKRaRaEe2eABD8zXVGHwTFNm2C0CZq0QlNUQVVDUzFCR0wyWU43N1ZZU0NaT1VGMkhGMi4u) |
 
 ## Program Highlights
 
