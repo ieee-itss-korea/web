@@ -10,17 +10,19 @@ IEEE ITSS Korea Chapter의 회원이 되려면 다음 두 가지가 필요합니
 1. **IEEE 회원** 가입: [ieee.org/join](https://www.ieee.org/membership/join/index.html)
 2. **IEEE ITS Society 회원** 가입: IEEE 회원 가입 시 또는 이후에 ITS Society를 선택
 
+ITSS 소개와 회원 혜택을 한 장에 담은 가입 안내 전단(PDF, 한국어)을 내려받아 주변에 나눠 주실 수 있습니다: [IEEE ITSS 회원 가입 안내 (2026)](/web/docs/IEEE-ITSS-Membership-Korean-2026.pdf)
+
 ### 회원 혜택
 
 - IEEE ITS Society 주관 학술대회 및 세미나 참가 할인
 - IEEE Transactions on Intelligent Transportation Systems (T-ITS) 등 저널 접근
 - Distinguished Lecturer 프로그램 참여
 - 글로벌 ITS 전문가 네트워크
-- 본 챕터의 국내 행사 및 네트워킹 기회
+- 본 지회의 국내 행사 및 네트워킹 기회
 
 ### 커뮤니티 참여
 
-학회 가입 전이라도 아래 채널을 통해 챕터 활동 소식을 받아보실 수 있습니다:
+학회 가입 전이라도 아래 채널을 통해 지회 활동 소식을 받아보실 수 있습니다:
 
 - **LinkedIn Group** — 전문가 네트워킹
 - **IEEE Collabratec** — IEEE 협업 플랫폼
