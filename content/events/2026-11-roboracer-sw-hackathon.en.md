@@ -11,6 +11,8 @@ location: "Online (award ceremony at Chungbuk National University)"
 
 The IEEE ITSS Korea Chapter and Chungbuk National University are jointly holding the RoboRacer SW Hackathon 2026. Teams implement the software of an autonomous racing car (F1TENTH), qualify through automatic grading, and are ranked by their simulated lap time. The competition is online. The full announcement, the rules, and the AI tutor's feedback are in Korean; this page is a summary in English, and the [Korean page](https://ieee-itss-korea.github.io/web/ko/events/2026-11-roboracer-sw-hackathon/) is the full text.
 
+> **Results:** see [RoboRacer SW Hackathon 2026: Results]({{< relref "/news/2026-11-roboracer-sw-hackathon-results" >}}).
+
 > **Registration closes: November 11, 2026 (Wed), 23:59 KST.** Please submit the [registration form (Google Form)](https://forms.gle/chtypdJy2w8ALTcC9) before the deadline.
 
 <!--more-->
