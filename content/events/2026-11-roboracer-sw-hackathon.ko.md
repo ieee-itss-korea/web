@@ -9,6 +9,8 @@ location: "온라인 (시상식: 충북대학교)"
 
 IEEE ITSS 한국 지회와 충북대학교가 함께 RoboRacer SW 해커톤 2026을 개최합니다. 자율주행 레이싱카(F1TENTH)의 소프트웨어를 직접 구현하고, 자동 채점으로 자격을 확인한 뒤 시뮬레이션 주행 기록(랩 타임)으로 순위를 가리는 온라인 대회입니다. 참가 방법과 일정을 안내드립니다.
 
+> **대회 결과:** [RoboRacer SW 해커톤 2026 결과]({{< relref "/news/2026-11-roboracer-sw-hackathon-results" >}})를 확인해 주십시오.
+
 > **참가 신청 마감: 11월 11일(수) 23:59.** [참가 신청서(Google Form)](https://forms.gle/chtypdJy2w8ALTcC9)를 마감 전에 제출해 주십시오.
 
 <!--more-->
